@@ -1,2 +1,0 @@
-# monstersrolodexreact
-Created with CodeSandbox

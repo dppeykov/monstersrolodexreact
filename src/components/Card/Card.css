@@ -1,0 +1,13 @@
+.card-container {
+  width: 220px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #75dada;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.card-container img {
+  width: 200px;
+}
